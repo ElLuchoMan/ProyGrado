@@ -11,7 +11,7 @@
 ### Tecnologías Implementadas y Versiones
 * [ngxAdmin](https://github.com/akveo/ngx-admin)
 * [Angular 8.0](https://angular.io/)
-* [Bootstrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [Bootstrap 5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 * [Nebular 4](https://akveo.github.io/nebular/4.6.0/)
 
 ### Variables de Entorno
